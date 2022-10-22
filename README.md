@@ -26,7 +26,7 @@
 ````json
 {
 	"Id": "1",
-	"Nome": "Ulisses Auresco",
+	"Nome": "Ulisses",
 	"Score": "150",
 	"Cash": "0",	
 },
