@@ -14,6 +14,7 @@
 <div>
 <ul>
 <li>Suporta os metodos padrão de requisições HTTP.</li>
+<li>Resposta em JSON.</li>
 <li>Swagger para a documentação.</li>
 <li>Usuários/Jogadores com Id repetido ou invalidos não podem ser criados, o que danificaria o banco de dados.</li>
 <li>Rota TOP traz informação direta para a criação de um placar geral, menos dados enviados e processados pelo lado do cliente</li>
