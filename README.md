@@ -25,10 +25,10 @@
 	
 ````json
 {
-	"Id": "1",
+	"Id": 1,
 	"Nome": "Ulisses",
-	"Score": "150",
-	"Cash": "0",	
+	"Score": 150,
+	"Cash": 0,	
 },
 ````
 
