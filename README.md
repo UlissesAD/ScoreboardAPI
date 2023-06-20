@@ -1,5 +1,5 @@
 <h1 align="center">
-  Players API
+  Scoreboard API
 </h1>
 <br>  
 <div align="center">
